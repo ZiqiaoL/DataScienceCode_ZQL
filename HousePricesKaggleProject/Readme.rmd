@@ -1,0 +1,5 @@
+House Prices: Advanced Regression Techniques
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+
+Explored insights on a house market dataset by conducting a data visualization analysis (EDA) using R (ggplot2), 
+check data distribution, outliers, density.
