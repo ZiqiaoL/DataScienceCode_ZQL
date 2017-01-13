@@ -1,0 +1,7 @@
+
+
+https://www.linkedin.com/pulse/collecting-twitter-stream-using-python-mongodb-shailendra
+
+http://knightlab.northwestern.edu/2014/03/15/a-beginners-guide-to-collecting-twitter-data-and-a-bit-of-web-scraping/
+
+http://stats.seandolinar.com/collecting-twitter-data-storing-tweets-in-mongodb/
